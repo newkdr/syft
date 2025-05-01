@@ -11,7 +11,7 @@
     <properties>
         <commons.lang3.version>3.14.0</commons.lang3.version>
         <commons.collections4.version>4.4</commons.collections4.version>
-        <commons.text.version>1.13.0</commons.text.version>
+        <commons.text.version>1.13.1</commons.text.version>
         <commons.junit.version>4.13.2</commons.junit.version>
         <commons-exec_subversion>3</commons-exec_subversion>
         <project.one>1</project.one>
