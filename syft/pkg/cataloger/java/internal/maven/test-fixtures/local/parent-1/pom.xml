@@ -15,7 +15,7 @@
 
     <properties>
         <!-- maven resolves project.parent.version from the _child_ project root context -->
-        <commons.lang3.version>3.17.0</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <commons.collections4.version>4.4</commons.collections4.version>
     </properties>
 
